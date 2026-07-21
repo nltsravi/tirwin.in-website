@@ -1,0 +1,97 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+.logo img {
+    width: auto;
+    /* Keeps the logo aspect ratio */
+    display: block !important;
+}
+
+.team img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+.team h5 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.team p.text-muted {
+    font-size: 1rem;
+}
+
+.team .social-links a {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.team .social-links a:hover {
+    color: #007bff;
+}
+
+.home-client-section img {
+    height: 150px !important;
+}
+
+
+.infographic-card {
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.infographic-card:hover {
+    transform: translateY(-10px);
+}
+
+.howwedo-section .card-title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.howwedo-section .card-body i {
+    color: #007bff;
+}
+
+.howwedo-section .card p {
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.footer-logo {
+    width: 250px;
+    border: none !important;
+}
+
+.team-image-person {
+    height: 330px;
+}
+
+
+#header.header-alternative .header-inner #logo a > img, #header.header-alternative #header-wrap #logo a > img {
+    height: 60px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+@media (max-width: 768px) {
+    .first-image {
+        order: 1;
+    }
+    .first-content {
+        order: 2;
+    }
+    .second-image {
+        order: 3;
+    }
+    .second-content {
+        order: 4;
+    }
+}
