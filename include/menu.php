@@ -36,6 +36,7 @@
                                 </ul>
                             </li>
                             <li><a href="blog.php">Blog</a></li>
+                            <li><a href="pulse.php">PULSE</a></li>
                             <li><a href="contact.php">CONTACT US</a></li>
                         </ul>
                     </nav>
