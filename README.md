@@ -87,6 +87,37 @@ php -v
 
 ---
 
+## 🚀 cPanel Server Deployment
+
+A zero-dependency Bash deployment script [`deploy.sh`](file:///Users/ravij/tirwin.in-website/deploy.sh) is provided to deploy only newly added or modified files to your cPanel host.
+
+1. **Configure `.env`**:
+   Copy `.env.example` to `.env` (or let `./deploy.sh` generate it) and update your cPanel FTP details:
+   ```env
+   REMOTE_HOST=your-cpanel-ip-or-domain.com
+   REMOTE_PORT=21
+   REMOTE_USER=your_cpanel_username
+   REMOTE_PASS=your_cpanel_password
+   REMOTE_PATH=/public_html/
+   ```
+
+2. **Deploy changed/new files:**
+   ```bash
+   ./deploy.sh
+   ```
+
+3. **Preview changes before upload (Dry Run):**
+   ```bash
+   ./deploy.sh --dry-run
+   ```
+
+4. **Force upload all project files:**
+   ```bash
+   ./deploy.sh --all
+   ```
+
+---
+
 ## 📁 Repository Structure Overview
 
 ```text
