@@ -37,74 +37,92 @@
             <div class="container">
                 <div id="blog" class="grid-layout post-3-columns m-b-30" data-item="post-item">
                     
-                    <!-- Air Cargo News Card -->
+                    <!-- Global Macro-Radar Card -->
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/air-cargo-surge.php">
-                                    <img alt="Air Cargo Spot Rate Surge" src="images/pulse-images/air-cargo-surge.png">
+                                <a href="pulse/1785813982/global-macro-radar.php">
+                                    <img alt="Global Macro Radar" src="images/blog-images/macro-radar.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/air-cargo-surge.php">Air Cargo</a></span>
+                                <span class="post-meta-category"><a href="pulse/1785813982/global-macro-radar.php">Global Macro-Radar</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jul 20, 2026</span>
-                                <h2><a href="pulse/air-cargo-surge.php">Transpacific Air Freight Rates Surge Amid Capacity Squeeze</a></h2>
-                                <p>Transpacific air cargo rates hit new seasonal highs as belly capacity tightens across major Asia-Pacific trade corridors, accelerating freighter charter demands for Q3 peak shipments.</p>
-                                <a href="pulse/air-cargo-surge.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 04, 2026</span>
+                                <h2><a href="pulse/1785813982/global-macro-radar.php">Early Peak Demand Triggers Fresh Surcharges Across Major Shipping Lanes</a></h2>
+                                <p>The second half of 2026 has opened with an aggressive push across major ocean lanes as importers frontload peak seasonal inventories weeks ahead of historical schedules. Fearing late Q3 port congestion and geopolitical route diversions, global shippers are securing vessel capacity early to guarantee holiday inventory arrivals.</p>
+                                <a href="pulse/1785813982/global-macro-radar.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Port Congestion News Card -->
+                    <!-- Tech Lab Card -->
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/port-congestion-update.php">
-                                    <img alt="Port Congestion & Ocean Freight" src="images/pulse-images/port-congestion.png">
+                                <a href="pulse/1785813982/tech-lab.php">
+                                    <img alt="The Tech Lab" src="images/blog-images/tech-lab.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/port-congestion-update.php">Maritime Freight</a></span>
+                                <span class="post-meta-category"><a href="pulse/1785813982/tech-lab.php">The Tech Lab</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jul 18, 2026</span>
-                                <h2><a href="pulse/port-congestion-update.php">Global Maritime Hubs Shift Schedules to Ease Port Bottlenecks</a></h2>
-                                <p>Key transshipment hubs experience increased container vessel dwell times as ocean carriers realign port calls and implement off-dock staging to mitigate systemic choke points.</p>
-                                <a href="pulse/port-congestion-update.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 03, 2026</span>
+                                <h2><a href="pulse/1785813982/tech-lab.php">Global Warehouse Robotics Deployments Cross 4.7 Million Units</a></h2>
+                                <p>The commercial warehousing market has reached a critical technological landmark, with global automation investments surpassing $30 billion. Over 4.7 million automated mobile systems and robotic units are now operational across more than 50,000 fulfillment centers worldwide.</p>
+                                <a href="pulse/1785813982/tech-lab.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Digital Customs News Card -->
+                    <!-- Government & Policy Card -->
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/digital-customs-initiative.php">
-                                    <img alt="Digital Customs & Trade" src="images/pulse-images/digital-customs.png">
+                                <a href="pulse/1785813982/government-policy.php">
+                                    <img alt="Government & Policy" src="images/blog-images/government-policy.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/digital-customs-initiative.php">Logistics Tech</a></span>
+                                <span class="post-meta-category"><a href="pulse/1785813982/government-policy.php">Government & Policy</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jul 16, 2026</span>
-                                <h2><a href="pulse/digital-customs-initiative.php">Single-Window Digital Customs Cut Clearance Times by 40%</a></h2>
-                                <p>Automated customs clearance platforms and unified digital trade corridors are dramatically streamlining cross-border documentation and accelerating cargo throughput across global hubs.</p>
-                                <a href="pulse/digital-customs-initiative.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 02, 2026</span>
+                                <h2><a href="pulse/1785813982/government-policy.php">Gati Shakti Terminals Draw ₹10,000 Cr Private Capital Across 142 Sites</a></h2>
+                                <p>In an update presented to Parliament, Union Railway Minister Ashwini Vaishnaw confirmed that 142 Gati Shakti Cargo Terminals (GCTs) have been commissioned across India. This infrastructure initiative is transforming freight mobility by establishing direct rail connections to high-density industrial corridors.</p>
+                                <a href="pulse/1785813982/government-policy.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Sustainable Fuel News Card -->
+                    <!-- Global Best Practices Card -->
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/sustainable-aviation-fuel.php">
-                                    <img alt="Sustainable Aviation Fuel" src="images/pulse-images/sustainable-fuel.png">
+                                <a href="pulse/1785813982/global-best-practices.php">
+                                    <img alt="Global Best Practices" src="images/blog-images/best-practices.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/sustainable-aviation-fuel.php">Sustainability</a></span>
+                                <span class="post-meta-category"><a href="pulse/1785813982/global-best-practices.php">Global Best Practices</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jul 14, 2026</span>
-                                <h2><a href="pulse/sustainable-aviation-fuel.php">Airlines Accelerate SAF Blending to Meet Carbon Targets</a></h2>
-                                <p>Global air cargo operators expand Sustainable Aviation Fuel (SAF) procurement frameworks to comply with tightening international climate mandates and scope 3 emission reduction targets.</p>
-                                <a href="pulse/sustainable-aviation-fuel.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 01, 2026</span>
+                                <h2><a href="pulse/1785813982/global-best-practices.php">Mitigating 5.8% Last-Mile Rate Hikes via Dynamic AI Routing</a></h2>
+                                <p>Last-mile fulfillment has become the most expensive segment of the global supply chain, routinely accounting for up to 55% of total freight movement expenditure. With parcel and express carriers implementing Q3 rate increases averaging 5.8%, enterprises are seeking operational models to contain rising delivery costs.</p>
+                                <a href="pulse/1785813982/global-best-practices.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Talent Bench Card -->
+                    <div class="post-item border">
+                        <div class="post-item-wrap">
+                            <div class="post-image">
+                                <a href="pulse/1785813982/talent-bench.php">
+                                    <img alt="The Talent Bench" src="images/blog-images/talent-bench.png">
+                                </a>
+                                <span class="post-meta-category"><a href="pulse/1785813982/talent-bench.php">The Talent Bench</a></span>
+                            </div>
+                            <div class="post-item-description">
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Jul 30, 2026</span>
+                                <h2><a href="pulse/1785813982/talent-bench.php">67% of Logistics Operators Expand Technical Training for Frontline Staff</a></h2>
+                                <p>As the global warehousing workforce expands beyond 7 million professionals, logistics managers face a structural talent challenge: traditional labor roles are changing faster than existing skill sets. In response, 67% of supply chain organizations have expanded internal technical training budgets.</p>
+                                <a href="pulse/1785813982/talent-bench.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
