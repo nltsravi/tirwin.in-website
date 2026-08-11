@@ -95,3 +95,35 @@
         order: 4;
     }
 }
+
+/* Custom Footer Social Icons Styling */
+.social-icons.social-icons-colored .social-whatsapp a,
+.social-icons.social-icons-colored-hover .social-whatsapp a:hover {
+    background-color: #25D366 !important;
+    color: #fff !important;
+}
+
+.social-icons.social-icons-colored .social-linkedin a,
+.social-icons.social-icons-colored-hover .social-linkedin a:hover {
+    background-color: #0A66C2 !important;
+    color: #fff !important;
+}
+
+.social-icons.social-icons-colored .social-instagram a,
+.social-icons.social-icons-colored-hover .social-instagram a:hover {
+    background-color: #E4405F !important;
+    color: #fff !important;
+}
+
+.social-icons.social-icons-colored .social-facebook a,
+.social-icons.social-icons-colored-hover .social-facebook a:hover {
+    background-color: #1877F2 !important;
+    color: #fff !important;
+}
+
+.social-icons.social-icons-colored .social-telegram a,
+.social-icons.social-icons-colored-hover .social-telegram a:hover {
+    background-color: #24A1DE !important;
+    color: #fff !important;
+}
+

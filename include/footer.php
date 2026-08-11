@@ -6,8 +6,17 @@
                 <div class="col-lg-3">
                     <div class="widget">
                         <div class="widget-title">Tirwin Management Pvt. Ltd</div>
-                        <img src="images/tirwin-logo.png" class="img-fluid rounded footer-logo" alt="">
-                        <p class="mb-5"><br> All rights reserved. Copyright © 2024.</p>
+                        <img src="images/tirwin-logo.png" class="img-fluid rounded footer-logo" alt="Tirwin Logo">
+                        <p class="mb-3"><br> All rights reserved. Copyright © 2024.</p>
+                        <div class="social-icons social-icons-colored social-icons-rounded">
+                            <ul>
+                                <li class="social-whatsapp"><a href="https://wa.me/919361970466?text=Hello%20I%20am%20interested%20on%20your%20products." target="_blank" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a></li>
+                                <li class="social-linkedin"><a href="https://www.linkedin.com/company/tirwin-management-services" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li class="social-instagram"><a href="https://www.instagram.com/tirwin_talent/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                <li class="social-facebook"><a href="https://www.facebook.com/profile.php?id=61589121061920" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <li class="social-telegram"><a href="https://t.me/" target="_blank" aria-label="Telegram"><i class="fab fa-telegram-plane"></i></a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-3">
@@ -37,11 +46,6 @@
                         <div class="widget-title">Our Publication</div>
                         <img src="images/pages/tirwin/iata-publication.jpg" class="img-fluid rounded" alt="">
                         <p>TIRWIN is IATA's Channel partner to distrubute IATA Publication's in IATA.For more details or enquires, <a style="color:#2250fc;" href="contact.php?contact-reference=publication">contact us</a></p>
-                    </div>
-                </div>
-
-                <div class="col-lg-7">
-                    <div class="row">
                     </div>
                 </div>
             </div>
