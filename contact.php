@@ -58,6 +58,7 @@
                                             <option value="staffing">Staffing Services</option>
                                             <option value="tech">Technology Services</option>
                                             <option value="publication">IATA Publication</option>
+                                            <option value="pulse">Tirwin Pulse - Newsletter</option>
                                             <option value="other">Others</option>
                                         </select>
                                     </div>
@@ -127,20 +128,45 @@
             'tech': ['Process Diagnosis', 'Core Platform / Technology Support', 'Process Automation', 'Analytics & Insights', 'Advanced Analytics & AI Solutions', 'Digital Transformation - Program Management', 'Digital Transformation - Workforce Transformation', 'Other'],
             'staffing': ['Employers', 'Job Seekers', 'Other'],
             'training': ['DGR', 'Other'],
+            'pulse': ['Feedback', 'Others'],
             'publication': []
         };
 
-        // Function to set category and subcategory based on contact-reference
-        function setCategoryAndSubcategory(contactReference) {
+        // Function to set category, subcategory, and message based on URL parameters
+        function setCategoryAndSubcategory() {
+            const contactReference = getUrlParameter('contact-reference');
+            const feedbackParam = getUrlParameter('feedback');
+            const issueParam = getUrlParameter('issue');
+
             const categoryDropdown = document.getElementById('category');
             const subcategoryDropdown = document.getElementById('subcategory');
-            const subcategoryLabel = document.getElementById('subcategoryLabel');
-            console.log("subcategories[contactReference]",subcategories[contactReference])
-            // Set category
-            if (contactReference && subcategories[contactReference]) {
-                categoryDropdown.value = contactReference;
-                if(subcategories[contactReference].length) {
-                    showSubcategoryDropdown(contactReference);
+            const messageTextarea = document.querySelector('textarea[name="widget-contact-form-message"]');
+
+            let targetCategory = contactReference;
+            let targetSubcategory = '';
+
+            // Handle feedback and issue URL parameters
+            if (feedbackParam) {
+                targetCategory = 'pulse';
+                targetSubcategory = 'feedback';
+
+                let formattedFeedback = feedbackParam.replace(/-/g, ' ').replace(/_/g, ' ');
+                formattedFeedback = formattedFeedback.charAt(0).toUpperCase() + formattedFeedback.slice(1);
+
+                const issueString = issueParam ? ` Issue #${issueParam}` : '';
+                if (messageTextarea && !messageTextarea.value) {
+                    messageTextarea.value = `Feedback on Tirwin Pulse Newsletter${issueString}: ${formattedFeedback}.\n\nComments: `;
+                }
+            }
+
+            // Set category and subcategory dropdowns
+            if (targetCategory && subcategories[targetCategory]) {
+                categoryDropdown.value = targetCategory;
+                if (subcategories[targetCategory].length) {
+                    showSubcategoryDropdown(targetCategory);
+                    if (targetSubcategory) {
+                        subcategoryDropdown.value = targetSubcategory;
+                    }
                 }
             } else {
                 hideSubcategoryDropdown();
@@ -190,11 +216,8 @@
             }
         }
 
-        // Get contact-reference from the URL parameter
-        const contactReference = getUrlParameter('contact-reference');
-
-        // Set the dropdown values on page load
-        setCategoryAndSubcategory(contactReference);
+        // Set the dropdown values and message on page load
+        setCategoryAndSubcategory();
     </script>
 </body>
 
