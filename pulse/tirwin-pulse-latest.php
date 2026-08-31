@@ -1,7 +1,7 @@
 <?php include('../include/header.php'); ?>
 <?php
-$issueDate = "12 August 2026";
-$issueNumber = "43";
+$issueDate = "31 August 2026";
+$issueNumber = "44";
 ?>
 <style>
     /* Newsletter Container Styling inside Website Page */
@@ -288,14 +288,15 @@ $issueNumber = "43";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1787212135/global-macro-radar.php">Freight Market Resets to Elevated Baseline as Integrators Cut Capacity</a>
+                                                    <a href="pulse/1788152612/global-macro-radar.php">Red Sea Diversions & Suez Congestion Shift Asia-Europe Rates; Impact on Indian Exporters at JNPT & Mundra</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Global Trade Winds</span>
-                                                    <span class="newsletter-tag">Parcel & Freight Trends</span>
+                                                    <span class="newsletter-tag">Indian Exporters</span>
+                                                    <span class="newsletter-tag">Maritime Chokepoints</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Market Reset:</strong> Freight markets are settling into a new structural baseline rather than returning to historical averages. All-in truckload rates remain 50% above year-ago levels, while major integrators like UPS and FedEx are aggressively cutting low-margin e-commerce capacity to focus on high-yield healthcare and automotive sectors. On Trans-Pacific lanes, ocean carriers have successfully pushed $1,000 rate increases as importers continue frontloading cargo ahead of late-summer tariff updates.
+                                                    <strong>Global Pulse:</strong> Ocean carriers continue Cape of Good Hope diversions, extending Asia-Europe transit times by 10-14 days. Ocean freight spot rates on South Asia to Europe routes remain elevated with emergency operational surcharges of $350-$500/TEU. Indian exporters out of JNPT, Mundra, and Hazira face acute 40ft High Cube container shortages, driving adoption of sea-air hybrid corridors via Gulf transshipment hubs.
                                                 </p>
                                             </div>
 
@@ -306,15 +307,15 @@ $issueNumber = "43";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1787212135/tech-lab.php">FCC Advanced Robotic Ruling Mandates OEM-Agnostic Domestic Strategies</a>
+                                                    <a href="pulse/1788152612/tech-lab.php">AI-Powered Computer Vision & WES Orchestration Transform 3PL Fulfillment Hubs</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Warehouse Automation</span>
-                                                    <span class="newsletter-tag">Robotics Policy</span>
-                                                    <span class="newsletter-tag">Logistics Technology</span>
+                                                    <span class="newsletter-tag">Logistics Tech</span>
+                                                    <span class="newsletter-tag">Warehouse Execution Systems</span>
+                                                    <span class="newsletter-tag">AMR Orchestration</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Tech Policy Shift:</strong> A new regulatory ruling by the FCC blocking approvals for foreign advanced robotic devices is reshaping 2026 warehouse automation planning. Distribution center operators and 3PLs are pivoting away from single-source foreign hardware vendors toward OEM-agnostic software architectures and domestic robotic systems that can operate securely across unified Warehouse Execution System (WES) layers.
+                                                    <strong>Automation Expansion:</strong> 3PL fulfillment networks are adopting AI-driven Warehouse Execution Systems (WES) integrated with VDA 5050 middleware protocols. Multi-vendor Autonomous Mobile Robot (AMR) fleets and overhead computer vision systems enable real-time dock inspection, freight dimensioning, and dynamic path planning, slashing dock-to-stock turnaround times by up to 40%.
                                                 </p>
                                             </div>
 
@@ -325,14 +326,15 @@ $issueNumber = "43";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1787212135/government-policy.php">Australia Tightens Biosecurity: DAFF Eliminates Two BMSB Clearance Pathways</a>
+                                                    <a href="pulse/1788152612/government-policy.php">PM GatiShakti Multi-Modal Hub Network Expands with Western DFC Connectivity & MMLP Nodes</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Biosecurity Regulations</span>
-                                                    <span class="newsletter-tag">Customs & Compliance</span>
+                                                    <span class="newsletter-tag">PM GatiShakti</span>
+                                                    <span class="newsletter-tag">Dedicated Freight Corridor</span>
+                                                    <span class="newsletter-tag">ULIP Platform</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Policy Mandate:</strong> Australia’s Department of Agriculture, Fisheries and Forestry (DAFF) has confirmed the removal of two key alternative clearance pathways—the Safeguarding Arrangement Scheme and the Rolled Goods Policy—for the upcoming 2026-2027 Brown Marmorated Stink Bug (BMSB) season starting September 1. Importers sending containerized ocean cargo into Oceania must adapt quickly to strict mandatory offshore treatment guidelines.
+                                                    <strong>India Focus:</strong> Operational integration of new Multi-Modal Logistics Parks (MMLPs) along the Western Dedicated Freight Corridor (WDFC) enables high-capacity double-stack container operations between Delhi-NCR and West Coast maritime gateways. Meanwhile, National Logistics Policy (NLP) ULIP enhancements now integrate 34 digital systems across 10 ministries, accelerating customs validation and ICD clearance.
                                                 </p>
                                             </div>
 
@@ -343,14 +345,15 @@ $issueNumber = "43";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1787212135/global-best-practices.php">Managing Easing Spot Rates Through Disciplined Blank Sailings</a>
+                                                    <a href="pulse/1788152612/global-best-practices.php">Leading 3PLs Deploy Dynamic Agile Routing and Multi-Echelon Buffer Inventory Strategies</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Resilient Logistics</span>
-                                                    <span class="newsletter-tag">Ocean Capacity Planning</span>
+                                                    <span class="newsletter-tag">Agile Routing</span>
+                                                    <span class="newsletter-tag">Supply Chain Resilience</span>
+                                                    <span class="newsletter-tag">3PL Control Towers</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Carrier Strategy:</strong> While ocean spot rates from Asia to Europe have gradually eased (e.g., Shanghai to Northern Europe down to $4,677/FEU), carriers are managing vessel capacity disciplined through blank sailings to prevent rate crashes. Best practices for Q3 demand pairing contractual allocation buffers with strategic spot bookings to protect margins against sudden capacity withdrawals.
+                                                    <strong>Operational Strategy:</strong> Top global freight forwarders and 3PLs are implementing AI control towers to monitor real-time vessel delays and port dwell times. When gateway bottlenecks occur, automated agile routing protocols divert cargo to secondary feeder hubs or alternate modes (sea-air), while multi-echelon inventory optimization (MEIO) safeguards customer delivery SLAs against disruption.
                                                 </p>
                                             </div>
 
@@ -361,14 +364,15 @@ $issueNumber = "43";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1787212135/talent-bench.php">Developing the "Warehouse 2030" Workforce Amid Supply Chain Shifts</a>
+                                                    <a href="pulse/1788152612/talent-bench.php">Closing the Logistics Skill Mismatch: Building the "Hybrid Operator" Workforce for 4PL Ecosystems</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Workforce Upskilling</span>
+                                                    <span class="newsletter-tag">Logistics Talent Crunch</span>
                                                     <span class="newsletter-tag">Hybrid Operators</span>
+                                                    <span class="newsletter-tag">Frontline Upskilling</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Talent Pivot:</strong> Industrial and electrical distributors are accelerating the transformation of frontline logistics roles as labor scarcity persists. To manage increasingly complex customer customization and multi-channel LTL rerouting, organizations are focused on upskilling floor staff into digital "Hybrid Operators" equipped with decision-support software and operational visibility tools.
+                                                    <strong>Workforce Trend:</strong> To address occupational skill mismatches in automated fulfillment centers, leading 3PL and 4PL logistics operators are launching internal upskilling academies. Frontline warehouse personnel are being trained into "Hybrid Operators"—combining physical domain knowledge with digital WMS telemetry navigation, AMR fleet maintenance, and AI exception handling capabilities.
                                                 </p>
                                             </div>
 
