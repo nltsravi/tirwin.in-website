@@ -1,7 +1,6 @@
 <?php include('../include/header.php'); ?>
 <?php
-$issueDate = "31 August 2026";
-$issueNumber = "44";
+$issueDate = "06 September 2026";
 ?>
 <style>
     /* Newsletter Container Styling inside Website Page */
@@ -244,14 +243,14 @@ $issueNumber = "44";
             <div class="bg-overlay" data-style="13"></div>
             <div class="container">
                 <div class="page-title">
-                    <h1>Logistics Pulse Newsletter</h1>
-                    <span>Issue #<?php echo $issueNumber; ?> &bull; <?php echo $issueDate; ?></span>
+                    <h1>Tirwin Pulse</h1>
+                    <span><?php echo $issueDate; ?></span>
                 </div>
                 <div class="breadcrumb">
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="pulse.php">Pulse</a></li>
-                        <li class="active"><a href="pulse/tirwin-pulse-latest.php">Newsletter #<?php echo $issueNumber; ?></a></li>
+                        <li class="active"><a href="pulse/tirwin-pulse-latest.php">Tirwin Pulse</a></li>
                     </ul>
                 </div>
             </div>
@@ -269,10 +268,10 @@ $issueNumber = "44";
                                     <tr>
                                         <td class="newsletter-header">
                                             <span class="newsletter-header-badge">Tirwin Intelligence Brief</span>
-                                            <h1>LOGISTICS PULSE</h1>
+                                            <h1>TIRWIN PULSE</h1>
                                             <p class="subtitle">Trade • Policy • Tech • Talent</p>
                                             <div class="newsletter-header-meta">
-                                                <strong>Date:</strong> <?php echo $issueDate; ?> &nbsp;|&nbsp; <strong>Issue:</strong> #<?php echo $issueNumber; ?>
+                                                <strong>Date:</strong> <?php echo $issueDate; ?>
                                             </div>
                                         </td>
                                     </tr>
@@ -288,15 +287,15 @@ $issueNumber = "44";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1788152612/global-macro-radar.php">Red Sea Diversions & Suez Congestion Shift Asia-Europe Rates; Impact on Indian Exporters at JNPT & Mundra</a>
+                                                    <a href="pulse/1788670730/global-macro-radar.php">Container Fleet Deliveries Soften Asia-Europe Freight Spikes as Trans-Pacific Rates Diverge: Strategic Implications for Indian Exporters</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Global Trade Winds</span>
                                                     <span class="newsletter-tag">Indian Exporters</span>
-                                                    <span class="newsletter-tag">Maritime Chokepoints</span>
+                                                    <span class="newsletter-tag">Fleet Deliveries</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Global Pulse:</strong> Ocean carriers continue Cape of Good Hope diversions, extending Asia-Europe transit times by 10-14 days. Ocean freight spot rates on South Asia to Europe routes remain elevated with emergency operational surcharges of $350-$500/TEU. Indian exporters out of JNPT, Mundra, and Hazira face acute 40ft High Cube container shortages, driving adoption of sea-air hybrid corridors via Gulf transshipment hubs.
+                                                    <strong>Global Pulse:</strong> Global containership fleet expansion led by CMA CGM, ONE, and Wan Hai is easing Asia-Europe spot spikes, while Trans-Pacific rates see carrier blank sailings ahead of peak season. Indian exporters at JNPT and Mundra gain temporary spot rate relief, though regional feeder delays continue to necessitate sea-air routing via Gulf transshipment hubs.
                                                 </p>
                                             </div>
 
@@ -307,15 +306,15 @@ $issueNumber = "44";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1788152612/tech-lab.php">AI-Powered Computer Vision & WES Orchestration Transform 3PL Fulfillment Hubs</a>
+                                                    <a href="pulse/1788670730/tech-lab.php">Agentic AI Orchestration & Edge Computer Vision Redefine 3PL Dock Operations and Intermodal Dispatch</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Logistics Tech</span>
-                                                    <span class="newsletter-tag">Warehouse Execution Systems</span>
+                                                    <span class="newsletter-tag">Agentic AI</span>
                                                     <span class="newsletter-tag">AMR Orchestration</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Automation Expansion:</strong> 3PL fulfillment networks are adopting AI-driven Warehouse Execution Systems (WES) integrated with VDA 5050 middleware protocols. Multi-vendor Autonomous Mobile Robot (AMR) fleets and overhead computer vision systems enable real-time dock inspection, freight dimensioning, and dynamic path planning, slashing dock-to-stock turnaround times by up to 40%.
+                                                    <strong>Automation Expansion:</strong> 3PL fulfillment hubs are replacing static WMS workflows with Agentic AI logic and edge computer vision. Integrating overhead camera streams with VDA 5050 AMR middleware enables automated seal verification, dynamic workload re-balancing across staging bays, and predictive intermodal truck re-routing, cutting dock turnaround times by 42%.
                                                 </p>
                                             </div>
 
@@ -326,15 +325,15 @@ $issueNumber = "44";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1788152612/government-policy.php">PM GatiShakti Multi-Modal Hub Network Expands with Western DFC Connectivity & MMLP Nodes</a>
+                                                    <a href="pulse/1788670730/government-policy.php">PM GatiShakti Evaluates ₹18.66 Lakh Cr Infrastructure Projects; WDFC Rail Terminals & Adani Ports' 50 MMT Record Accelerate National Logistics Policy</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">PM GatiShakti</span>
-                                                    <span class="newsletter-tag">Dedicated Freight Corridor</span>
-                                                    <span class="newsletter-tag">ULIP Platform</span>
+                                                    <span class="newsletter-tag">Western DFC</span>
+                                                    <span class="newsletter-tag">APSEZ Record</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>India Focus:</strong> Operational integration of new Multi-Modal Logistics Parks (MMLPs) along the Western Dedicated Freight Corridor (WDFC) enables high-capacity double-stack container operations between Delhi-NCR and West Coast maritime gateways. Meanwhile, National Logistics Policy (NLP) ULIP enhancements now integrate 34 digital systems across 10 ministries, accelerating customs validation and ICD clearance.
+                                                    <strong>India Focus:</strong> PM GatiShakti's Network Planning Group completed the evaluation of 396 multi-modal projects worth ₹18.66 lakh crore. Fast-tracked land acquisition for new Western DFC Gati Shakti Cargo Terminals (New Timba, New Pardi, Umbergaon) helped Adani Ports (APSEZ) log a record 50 MMT cargo volume in August 2026 (up 19% YoY), supported by ULIP multi-ministry integration.
                                                 </p>
                                             </div>
 
@@ -345,15 +344,15 @@ $issueNumber = "44";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1788152612/global-best-practices.php">Leading 3PLs Deploy Dynamic Agile Routing and Multi-Echelon Buffer Inventory Strategies</a>
+                                                    <a href="pulse/1788670730/global-best-practices.php">Multi-Echelon Intermodal Conversion & Strategic Terminal Operating Models: How Leading 3PLs Buffer Peak Season Volatility</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Agile Routing</span>
-                                                    <span class="newsletter-tag">Supply Chain Resilience</span>
-                                                    <span class="newsletter-tag">3PL Control Towers</span>
+                                                    <span class="newsletter-tag">Intermodal Conversion</span>
+                                                    <span class="newsletter-tag">Terminal Concessions</span>
+                                                    <span class="newsletter-tag">MEIO Safety Stock</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Operational Strategy:</strong> Top global freight forwarders and 3PLs are implementing AI control towers to monitor real-time vessel delays and port dwell times. When gateway bottlenecks occur, automated agile routing protocols divert cargo to secondary feeder hubs or alternate modes (sea-air), while multi-echelon inventory optimization (MEIO) safeguards customer delivery SLAs against disruption.
+                                                    <strong>Operational Strategy:</strong> Leading 3PLs and freight forwarders are shifting long-haul freight from road to rail-intermodal, cutting line-haul costs by 15%-22%. By securing port and inland terminal concessions (e.g., Western Carriers at Syama Prasad Mookerjee Port) and deploying Multi-Echelon Inventory Optimization (MEIO), forwarders insulate clients from peak season surcharges.
                                                 </p>
                                             </div>
 
@@ -364,15 +363,15 @@ $issueNumber = "44";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1788152612/talent-bench.php">Closing the Logistics Skill Mismatch: Building the "Hybrid Operator" Workforce for 4PL Ecosystems</a>
+                                                    <a href="pulse/1788670730/talent-bench.php">Closing the 4PL Skill Mismatch: Building the "Intermodal Control Specialist" Workforce for Automated Logistics Hubs</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Logistics Talent Crunch</span>
-                                                    <span class="newsletter-tag">Hybrid Operators</span>
-                                                    <span class="newsletter-tag">Frontline Upskilling</span>
+                                                    <span class="newsletter-tag">Logistics Talent</span>
+                                                    <span class="newsletter-tag">Control Specialist</span>
+                                                    <span class="newsletter-tag">VR Upskilling</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Workforce Trend:</strong> To address occupational skill mismatches in automated fulfillment centers, leading 3PL and 4PL logistics operators are launching internal upskilling academies. Frontline warehouse personnel are being trained into "Hybrid Operators"—combining physical domain knowledge with digital WMS telemetry navigation, AMR fleet maintenance, and AI exception handling capabilities.
+                                                    <strong>Workforce Trend:</strong> With Indian warehouse leasing reaching 36.2M sq ft in H1 2026, 3PL and 4PL operators are establishing VR-simulated upskilling academies. Traditional warehouse staff are trained into "Intermodal Control Specialists"—mastering digital twin monitoring, AMR telemetry navigation, and ULIP customs exception handling to reduce frontline turnover by 35%.
                                                 </p>
                                             </div>
 
@@ -384,16 +383,16 @@ $issueNumber = "44";
                                                     <tr>
                                                         <td align="center">
                                                             <!-- Feedback Reaction Buttons -->
-                                                            <a href="contact.php?feedback=insightful&issue=<?php echo $issueNumber; ?>" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=insightful" class="newsletter-feedback-btn" target="_blank">
                                                                 🤩 Insightful
                                                             </a>
-                                                            <a href="contact.php?feedback=good&issue=<?php echo $issueNumber; ?>" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=good" class="newsletter-feedback-btn" target="_blank">
                                                                 👍 Good
                                                             </a>
-                                                            <a href="contact.php?feedback=okay&issue=<?php echo $issueNumber; ?>" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=okay" class="newsletter-feedback-btn" target="_blank">
                                                                 😐 Average
                                                             </a>
-                                                            <a href="contact.php?feedback=needs-work&issue=<?php echo $issueNumber; ?>" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=needs-work" class="newsletter-feedback-btn" target="_blank">
                                                                 👎 Needs Work
                                                             </a>
                                                         </td>
