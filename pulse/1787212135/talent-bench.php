@@ -81,7 +81,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                             on automation investments while expanding internal career pathways.</p>
 
                                         <div class="text-left">
-                                            <a href="https://tedmag.com/the-warehouse-of-2030-is-taking-shape/"
+                                            <a href="https://tedmag.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

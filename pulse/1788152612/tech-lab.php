@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>By capturing continuous spatial telemetry from AMRs, IoT sensors, and computer vision cameras, 3PL providers are creating real-time digital twin models of fulfillment facilities. These interactive digital twins simulate inventory movements, dynamically re-route robotic transport paths during volume spikes, and predict bottleneck occurrences before they impact order SLAs. As AI-driven automation orchestration matures, forward-thinking 3PLs and 4PLs are achieving unprecedented accuracy, labor productivity, and operational transparency across contract fulfillment networks.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychainbrain.com/articles/39842-ai-computer-vision-wes-automation-fulfillment-2026"
+                                            <a href="https://www.supplychainbrain.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

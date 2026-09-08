@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>The tangible benefits of integrated multi-modal infrastructure were demonstrated by Adani Ports and Special Economic Zone (APSEZ), which registered a record monthly cargo throughput of 50 million metric tonnes (MMT) in August 2026—a 19% year-on-year increase driven by robust dry cargo and container volumes. Concurrently, the National Logistics Policy's Unified Logistics Interface Platform (ULIP) expanded its digital integrations across 34 systems from 10 central ministries, giving freight forwarders, ICD operators, and customs brokers seamless, single-window clearance and real-time cargo tracking capabilities.</p>
 
                                         <div class="text-left">
-                                            <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=pm-gatishakti-npg-evaluates-infrastructure-projects-august-2026"
+                                            <a href="https://www.pib.gov.in/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

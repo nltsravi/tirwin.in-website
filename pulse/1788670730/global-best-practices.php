@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Complementing multi-modal transport shifts, global 3PL control towers are integrating real-time predictive analytics to manage Multi-Echelon Inventory Optimization (MEIO). Rather than storing excessive safety stock at central distribution hubs, logistics planners strategically distribute inventory across regional buffer warehouses and inland container depots (ICDs). When port dwell times spike or maritime blank sailings occur, control tower algorithms dynamically re-allocate inventory from nearest regional nodes, safeguarding customer delivery SLAs without incurring expensive air freight expedites.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.logisticsmgmt.com/article/intermodal-conversion-strategies-3pl-freight-forwarding-september-2026"
+                                            <a href="https://www.logisticsmgmt.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

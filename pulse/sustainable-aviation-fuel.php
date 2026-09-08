@@ -50,7 +50,7 @@
                                         <p>While SAF currently carries a price premium compared to conventional Jet A-1 fuel, scaling production capacities and government incentives are expected to narrow the cost gap over the coming decade.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.iata.org/en/programs/sustainability/saf/" target="_blank" class="btn-source"><i class="fa fa-external-link"></i> View Original Source</a>
+                                            <a href="https://www.iata.org/" target="_blank" class="btn-source"><i class="fa fa-external-link"></i> View Original Source</a>
                                         </div>
                                     </div>
                                     <div class="post-tags">

@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>For Indian exporters operating through major West Coast maritime gateways including JNPT (Nhava Sheva), Mundra, and Hazira, the easing of global spot spikes offers temporary margin relief for engineering exports, chemicals, and textiles. However, blank sailings by regional feeder operators and empty container positioning imbalances across South Asian ports continue to delay booking confirmations. To safeguard delivery timelines, Indian logistics managers are expanding multi-modal sea-air routing via Gulf transshipment hubs and securing flexible long-term freight agreements with guaranteed equipment provisions.</p>
 
                                         <div class="text-left">
-                                            <a href="https://theloadstar.com/containership-fleet-expansion-asia-europe-freight-rates-september-2026/"
+                                            <a href="https://theloadstar.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

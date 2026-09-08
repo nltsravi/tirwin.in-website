@@ -82,7 +82,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                             multi-vendor AMR fleets without rebuilding core operational workflows.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.einnews.com/pr_news/931939885/fcc-advanced-robotic-devices-rule-for-warehouse-automation"
+                                            <a href="https://www.einnews.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>On the digital governance front, the Unified Logistics Interface Platform (ULIP) under the NLP has expanded API integration across 34 digital systems across 10 ministries, including ICEGATE, FASTag, FOIS, and VAHAN. This unified digital layer empowers customs brokers, freight forwarders, and 3PL operators with real-time end-to-end cargo tracking, automated customs document validation, and streamlined clearance workflows, substantially lowering administrative overhead and dwell times at ICDs and port gateways.</p>
 
                                         <div class="text-left">
-                                            <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=2026083101"
+                                            <a href="https://www.pib.gov.in/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

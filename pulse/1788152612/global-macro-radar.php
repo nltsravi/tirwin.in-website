@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>For Indian exporters operating out of JNPT, Mundra, and Hazira, container equipment shortages—particularly for 40ft High Cube and refrigerated units—have created operational bottlenecks for engineering goods, textiles, auto components, and pharmaceuticals. Indian importers are simultaneously confronting higher landed costs and extended transit windows for European raw materials and machinery. To insulate supply chains against ongoing geopolitical volatility, Indian logistics leaders are increasingly turning to sea-air hybrid routing via Gulf hubs and securing long-term freight rate contracts with flexible equipment guarantee clauses.</p>
 
                                         <div class="text-left">
-                                            <a href="https://theloadstar.com/asia-europe-freight-rates-spike-red-sea-rerouting-august-2026/"
+                                            <a href="https://theloadstar.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

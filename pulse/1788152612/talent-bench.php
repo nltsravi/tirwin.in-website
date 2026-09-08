@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Leading logistics institutions, in partnership with industry bodies in India and globally, are launching specialized certification programs focused on digital customs compliance, multimodal transport optimization, and AI supply chain analytics. Investing in continuous workforce upskilling not only curbs frontline turnover but also builds a resilient talent pipeline capable of driving operational excellence across modern automated supply chains.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychain247.com/article/closing_logistics_skills_gap_hybrid_operator_workforce_2026"
+                                            <a href="https://www.supplychain247.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Transitioning frontline staff into Intermodal Control Specialists not only solves the talent shortage but also yields significant organizational benefits, including a 35% reduction in frontline turnover and marked improvements in warehouse safety compliance. By creating clear career progression pathways from floor operations to digital supply chain control towers, 4PL companies are building an agile, highly skilled workforce ready to operate sophisticated, multi-modal supply chain networks.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychaindive.com/news/logistics-talent-upskilling-control-tower-telematics-september-2026/"
+                                            <a href="https://www.supplychaindive.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

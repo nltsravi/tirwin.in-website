@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Complementing agile routing, enterprise supply chain directors are adopting multi-echelon inventory optimization (MEIO) to re-balance safety stock across regional distribution hubs. By establishing regional buffer inventory near high-demand consumer markets and diversifying manufacturing origins across South Asia and Southeast Asia, global brands are effectively mitigating single-source vulnerability, ensuring operational resilience and business continuity amid volatile global trade conditions.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.logisticsmgmt.com/article/agile_routing_and_multi_echelon_inventory_strategies_3pl_2026"
+                                            <a href="https://www.logisticsmgmt.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

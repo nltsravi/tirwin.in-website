@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Beyond warehouse walls, Agentic AI platforms stream live IoT telemetry from container chassis, port terminal operating systems (TOS), and long-haul intermodal trucks into real-time digital twin models. When port gate congestion or customs holds occur, the AI agent automatically re-routes intermodal drayage trucks to secondary inland container depots (ICDs) or shifts freight onto rail corridors. Forward-thinking 3PL and 4PL operators leveraging agentic automation are achieving end-to-end operational visibility, minimizing demurrage charges, and setting new benchmarks in agile logistics fulfillment.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychainbrain.com/articles/agentic-ai-computer-vision-warehouse-automation-september-2026"
+                                            <a href="https://www.supplychainbrain.com/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>
