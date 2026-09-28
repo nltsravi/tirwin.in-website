@@ -41,10 +41,10 @@
         <section>
             <div class="container">
                 
-                <!-- LATEST PULSE SECTION (Folder 1788670730) -->
+                <!-- LATEST PULSE SECTION (Folder 1790571739) -->
                 <div class="heading-text heading-section m-b-30">
                     <h2>Latest Logistics Pulse</h2>
-                    <span class="lead">September 2026 Briefings</span>
+                    <span class="lead">Late September 2026 Briefings</span>
                 </div>
 
                 <div id="blog-latest" class="grid-layout post-3-columns m-b-30" data-item="post-item">
@@ -53,16 +53,16 @@
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/1788670730/global-macro-radar.php">
+                                <a href="pulse/1790571739/global-macro-radar.php">
                                     <img alt="Global Macro Radar" src="images/blog-images/macro-radar.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/1788670730/global-macro-radar.php">Global Macro-Radar</a></span>
+                                <span class="post-meta-category"><a href="pulse/1790571739/global-macro-radar.php">Global Macro-Radar</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 06, 2026</span>
-                                <h2><a href="pulse/1788670730/global-macro-radar.php">Container Fleet Deliveries Soften Asia-Europe Freight Spikes as Trans-Pacific Rates Diverge: Strategic Implications for Indian Exporters</a></h2>
-                                <p>Global containership fleet expansion led by CMA CGM, ONE, and Wan Hai is easing Asia-Europe spot spikes, while Trans-Pacific rates see carrier blank sailings ahead of peak season. Indian exporters at JNPT and Mundra gain temporary spot rate relief, though regional feeder delays continue to necessitate sea-air routing via Gulf transshipment hubs.</p>
-                                <a href="pulse/1788670730/global-macro-radar.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 28, 2026</span>
+                                <h2><a href="pulse/1790571739/global-macro-radar.php">Golden Week Blank Sailings Collide with Q4 Air Cargo Peak Surge: Capacity Squeezes & Sea-Air Multimodal Bridging for Indian Exporters</a></h2>
+                                <p>Ocean carrier alliances are withdrawing 20% to 25% of Asia-Europe and Transpacific capacity ahead of China's Golden Week to arrest spot rate drops, while the Baltic Air Freight Index surges over 20% YoY. Indian exporters face rolled bookings at JNPT and Mundra, prompting forwarders to scale sea-air multimodal bridges via Dubai and Muscat to cut transit times by 14 days.</p>
+                                <a href="pulse/1790571739/global-macro-radar.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -71,16 +71,16 @@
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/1788670730/tech-lab.php">
+                                <a href="pulse/1790571739/tech-lab.php">
                                     <img alt="The Tech Lab" src="images/blog-images/tech-lab.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/1788670730/tech-lab.php">The Tech Lab</a></span>
+                                <span class="post-meta-category"><a href="pulse/1790571739/tech-lab.php">The Tech Lab</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 06, 2026</span>
-                                <h2><a href="pulse/1788670730/tech-lab.php">Agentic AI Orchestration & Edge Computer Vision Redefine 3PL Dock Operations and Intermodal Dispatch</a></h2>
-                                <p>3PL fulfillment hubs are replacing static WMS workflows with Agentic AI logic and edge computer vision. Integrating overhead camera streams with VDA 5050 AMR middleware enables automated seal verification, dynamic workload re-balancing across staging bays, and predictive intermodal truck re-routing, cutting dock turnaround times by 42%.</p>
-                                <a href="pulse/1788670730/tech-lab.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 28, 2026</span>
+                                <h2><a href="pulse/1790571739/tech-lab.php">Vision-Language-Action (VLA) Embodied AI & Mobile Robotic Manipulators Solve Unstructured Inbound Bottlenecks in 3PL Cross-Docks</a></h2>
+                                <p>Tier-1 3PLs are deploying Embodied Physical AI and Vision-Language-Action (VLA) models on Autonomous Mobile Manipulation Robots (AMMRs). Delivering zero-shot spatial reasoning and dynamic grasping, these systems destuff loose, non-palletized ocean containers in 48 minutes instead of 4.5 hours, synchronizing with WES to achieve 99.8% sort accuracy.</p>
+                                <a href="pulse/1790571739/tech-lab.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -89,16 +89,16 @@
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/1788670730/government-policy.php">
+                                <a href="pulse/1790571739/government-policy.php">
                                     <img alt="Government & Policy" src="images/blog-images/government-policy.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/1788670730/government-policy.php">Government & Policy</a></span>
+                                <span class="post-meta-category"><a href="pulse/1790571739/government-policy.php">Government & Policy</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 05, 2026</span>
-                                <h2><a href="pulse/1788670730/government-policy.php">PM GatiShakti Evaluates ₹18.66 Lakh Cr Infrastructure Projects; WDFC Rail Terminals & Adani Ports' 50 MMT Record Accelerate National Logistics Policy</a></h2>
-                                <p>PM GatiShakti's Network Planning Group completed the evaluation of 396 multi-modal projects worth ₹18.66 lakh crore. Fast-tracked land acquisition for new Western DFC Gati Shakti Cargo Terminals (New Timba, New Pardi, Umbergaon) helped Adani Ports (APSEZ) log a record 50 MMT cargo volume in August 2026 (up 19% YoY), supported by ULIP multi-ministry integration.</p>
-                                <a href="pulse/1788670730/government-policy.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 27, 2026</span>
+                                <h2><a href="pulse/1790571739/government-policy.php">National Logistics Policy Marks 4th Anniversary: DPIIT Launches ULIP 2.0 API Gateway & MoPSW Notifies "Sagar Ankalan" LPPI Standards</a></h2>
+                                <p>On the 4th anniversary of the National Logistics Policy, DPIIT and MoPSW launched the ULIP 2.0 API gateway connecting 44 systems across 11 ministries and notified "Sagar Ankalan" (Logistics Port Performance Index). The LPPI framework links port terminal concessions directly to turnaround KPIs, while ULIP 2.0 automates duty drawback and ICD-CFS digital clearance.</p>
+                                <a href="pulse/1790571739/government-policy.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -107,16 +107,16 @@
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/1788670730/global-best-practices.php">
+                                <a href="pulse/1790571739/global-best-practices.php">
                                     <img alt="Global Best Practices" src="images/blog-images/best-practices.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/1788670730/global-best-practices.php">Global Best Practices</a></span>
+                                <span class="post-meta-category"><a href="pulse/1790571739/global-best-practices.php">Global Best Practices</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 04, 2026</span>
-                                <h2><a href="pulse/1788670730/global-best-practices.php">Multi-Echelon Intermodal Conversion & Strategic Terminal Operating Models: How Leading 3PLs Buffer Peak Season Volatility</a></h2>
-                                <p>Leading 3PLs and freight forwarders are shifting long-haul freight from road to rail-intermodal, cutting line-haul costs by 15%-22%. By securing port and inland terminal concessions (e.g., Western Carriers at Syama Prasad Mookerjee Port) and deploying Multi-Echelon Inventory Optimization (MEIO), forwarders insulate clients from peak season surcharges.</p>
-                                <a href="pulse/1788670730/global-best-practices.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 26, 2026</span>
+                                <h2><a href="pulse/1790571739/global-best-practices.php">Secondary Air Cargo Hub Bypass & Blocked Space Charters: How Tier-1 3PLs Insulate Shippers from Q4 Airport Congestion</a></h2>
+                                <p>To bypass 48-to-72-hour tarmac bottlenecks and punitive demurrage at primary airports like Frankfurt, Heathrow, and JFK, leading forwarders are contracting dedicated freighters into dedicated cargo hubs (Liège, Leipzig, Rickenbacker). Synchronized with bonded road feeder trucks, forwarders guarantee express transit and eliminate gateway dwell.</p>
+                                <a href="pulse/1790571739/global-best-practices.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -125,27 +125,27 @@
                     <div class="post-item border">
                         <div class="post-item-wrap">
                             <div class="post-image">
-                                <a href="pulse/1788670730/talent-bench.php">
+                                <a href="pulse/1790571739/talent-bench.php">
                                     <img alt="The Talent Bench" src="images/blog-images/talent-bench.png">
                                 </a>
-                                <span class="post-meta-category"><a href="pulse/1788670730/talent-bench.php">The Talent Bench</a></span>
+                                <span class="post-meta-category"><a href="pulse/1790571739/talent-bench.php">The Talent Bench</a></span>
                             </div>
                             <div class="post-item-description">
-                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 03, 2026</span>
-                                <h2><a href="pulse/1788670730/talent-bench.php">Closing the 4PL Skill Mismatch: Building the "Intermodal Control Specialist" Workforce for Automated Logistics Hubs</a></h2>
-                                <p>With Indian warehouse leasing reaching 36.2M sq ft in H1 2026, 3PL and 4PL operators are establishing VR-simulated upskilling academies. Traditional warehouse staff are trained into "Intermodal Control Specialists"—mastering digital twin monitoring, AMR telemetry navigation, and ULIP customs exception handling to reduce frontline turnover by 35%.</p>
-                                <a href="pulse/1788670730/talent-bench.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 25, 2026</span>
+                                <h2><a href="pulse/1790571739/talent-bench.php">The Rise of the Logistics Carbon Accounting Specialist: Bridging the Green Freight Skills Gap Ahead of Scope 3 Mandates</a></h2>
+                                <p>With EU CBAM enforcement and EU ETS maritime audits tightening entering Q4 2026, 3PLs face an acute talent shortage for certified "Logistics Carbon Accounting Specialists." In response, LSSC and FIATA are rolling out GLEC-compliant accreditation, training forwarding brokers to model low-carbon multimodal routes and audit SAF book-and-claim registries.</p>
+                                <a href="pulse/1790571739/talent-bench.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
 
                 </div>
 
-                <!-- PREVIOUS PULSE SECTION (Folder 1788152612) -->
+                <!-- PREVIOUS PULSE SECTION (Folder 1788670730) -->
                 <div class="previous-pulse-wrapper">
                     <div class="heading-text heading-section m-b-30">
                         <h2>Previous Pulse</h2>
-                        <span class="lead">August 2026 Briefings</span>
+                        <span class="lead">Early September 2026 Briefings</span>
                     </div>
 
                     <div id="blog-previous" class="grid-layout post-3-columns m-b-30" data-item="post-item">
@@ -154,16 +154,16 @@
                         <div class="post-item border">
                             <div class="post-item-wrap">
                                 <div class="post-image">
-                                    <a href="pulse/1788152612/global-macro-radar.php">
+                                    <a href="pulse/1788670730/global-macro-radar.php">
                                         <img alt="Global Macro Radar" src="images/blog-images/macro-radar.png">
                                     </a>
-                                    <span class="post-meta-category"><a href="pulse/1788152612/global-macro-radar.php">Global Macro-Radar</a></span>
+                                    <span class="post-meta-category"><a href="pulse/1788670730/global-macro-radar.php">Global Macro-Radar</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 31, 2026</span>
-                                    <h2><a href="pulse/1788152612/global-macro-radar.php">Red Sea Diversions & Suez Congestion Shift Asia-Europe Rates; Impact on Indian Exporters at JNPT & Mundra</a></h2>
-                                    <p>Global ocean freight corridors continue to face structural realignment as prolonged Cape of Good Hope rerouting inflates transit times and triggers emergency surcharges across Asia-Europe and South Asia lanes.</p>
-                                    <a href="pulse/1788152612/global-macro-radar.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 06, 2026</span>
+                                    <h2><a href="pulse/1788670730/global-macro-radar.php">Container Fleet Deliveries Soften Asia-Europe Freight Spikes as Trans-Pacific Rates Diverge: Strategic Implications for Indian Exporters</a></h2>
+                                    <p>Global containership fleet expansion led by CMA CGM, ONE, and Wan Hai is easing Asia-Europe spot spikes, while Trans-Pacific rates see carrier blank sailings ahead of peak season. Indian exporters at JNPT and Mundra gain temporary spot rate relief, though regional feeder delays continue to necessitate sea-air routing via Gulf transshipment hubs.</p>
+                                    <a href="pulse/1788670730/global-macro-radar.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -172,16 +172,16 @@
                         <div class="post-item border">
                             <div class="post-item-wrap">
                                 <div class="post-image">
-                                    <a href="pulse/1788152612/tech-lab.php">
+                                    <a href="pulse/1788670730/tech-lab.php">
                                         <img alt="The Tech Lab" src="images/blog-images/tech-lab.png">
                                     </a>
-                                    <span class="post-meta-category"><a href="pulse/1788152612/tech-lab.php">The Tech Lab</a></span>
+                                    <span class="post-meta-category"><a href="pulse/1788670730/tech-lab.php">The Tech Lab</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 31, 2026</span>
-                                    <h2><a href="pulse/1788152612/tech-lab.php">AI-Powered Computer Vision & WES Orchestration Transform 3PL Fulfillment Hubs</a></h2>
-                                    <p>Modern fulfillment centers are deploying edge-based AI computer vision and standardized VDA 5050 WES middleware to orchestrate multi-vendor AMR fleets and cut dock-to-stock turnaround times by 40%.</p>
-                                    <a href="pulse/1788152612/tech-lab.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 06, 2026</span>
+                                    <h2><a href="pulse/1788670730/tech-lab.php">Agentic AI Orchestration & Edge Computer Vision Redefine 3PL Dock Operations and Intermodal Dispatch</a></h2>
+                                    <p>3PL fulfillment hubs are replacing static WMS workflows with Agentic AI logic and edge computer vision. Integrating overhead camera streams with VDA 5050 AMR middleware enables automated seal verification, dynamic workload re-balancing across staging bays, and predictive intermodal truck re-routing, cutting dock turnaround times by 42%.</p>
+                                    <a href="pulse/1788670730/tech-lab.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -190,16 +190,16 @@
                         <div class="post-item border">
                             <div class="post-item-wrap">
                                 <div class="post-image">
-                                    <a href="pulse/1788152612/government-policy.php">
+                                    <a href="pulse/1788670730/government-policy.php">
                                         <img alt="Government & Policy" src="images/blog-images/government-policy.png">
                                     </a>
-                                    <span class="post-meta-category"><a href="pulse/1788152612/government-policy.php">Government & Policy</a></span>
+                                    <span class="post-meta-category"><a href="pulse/1788670730/government-policy.php">Government & Policy</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 30, 2026</span>
-                                    <h2><a href="pulse/1788152612/government-policy.php">PM GatiShakti Multi-Modal Hub Network Expands with Western DFC Connectivity & MMLP Nodes</a></h2>
-                                    <p>Integration of Multi-Modal Logistics Parks (MMLPs) with the Western Dedicated Freight Corridor enables double-stack train operations, reducing Delhi-JNPT freight transit times to under 24 hours.</p>
-                                    <a href="pulse/1788152612/government-policy.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 05, 2026</span>
+                                    <h2><a href="pulse/1788670730/government-policy.php">PM GatiShakti Evaluates ₹18.66 Lakh Cr Infrastructure Projects; WDFC Rail Terminals & Adani Ports' 50 MMT Record Accelerate National Logistics Policy</a></h2>
+                                    <p>PM GatiShakti's Network Planning Group completed the evaluation of 396 multi-modal projects worth ₹18.66 lakh crore. Fast-tracked land acquisition for new Western DFC Gati Shakti Cargo Terminals (New Timba, New Pardi, Umbergaon) helped Adani Ports (APSEZ) log a record 50 MMT cargo volume in August 2026 (up 19% YoY), supported by ULIP multi-ministry integration.</p>
+                                    <a href="pulse/1788670730/government-policy.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -208,16 +208,16 @@
                         <div class="post-item border">
                             <div class="post-item-wrap">
                                 <div class="post-image">
-                                    <a href="pulse/1788152612/global-best-practices.php">
+                                    <a href="pulse/1788670730/global-best-practices.php">
                                         <img alt="Global Best Practices" src="images/blog-images/best-practices.png">
                                     </a>
-                                    <span class="post-meta-category"><a href="pulse/1788152612/global-best-practices.php">Global Best Practices</a></span>
+                                    <span class="post-meta-category"><a href="pulse/1788670730/global-best-practices.php">Global Best Practices</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 29, 2026</span>
-                                    <h2><a href="pulse/1788152612/global-best-practices.php">Leading 3PLs Deploy Dynamic Agile Routing and Multi-Echelon Buffer Inventory Strategies</a></h2>
-                                    <p>Top global forwarders and 3PL control towers are leveraging real-time predictive analytics to re-route cargo dynamically and optimize multi-echelon safety stock, guarding against port bottlenecks.</p>
-                                    <a href="pulse/1788152612/global-best-practices.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 04, 2026</span>
+                                    <h2><a href="pulse/1788670730/global-best-practices.php">Multi-Echelon Intermodal Conversion & Strategic Terminal Operating Models: How Leading 3PLs Buffer Peak Season Volatility</a></h2>
+                                    <p>Leading 3PLs and freight forwarders are shifting long-haul freight from road to rail-intermodal, cutting line-haul costs by 15%-22%. By securing port and inland terminal concessions (e.g., Western Carriers at Syama Prasad Mookerjee Port) and deploying Multi-Echelon Inventory Optimization (MEIO), forwarders insulate clients from peak season surcharges.</p>
+                                    <a href="pulse/1788670730/global-best-practices.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -226,16 +226,16 @@
                         <div class="post-item border">
                             <div class="post-item-wrap">
                                 <div class="post-image">
-                                    <a href="pulse/1788152612/talent-bench.php">
+                                    <a href="pulse/1788670730/talent-bench.php">
                                         <img alt="The Talent Bench" src="images/blog-images/talent-bench.png">
                                     </a>
-                                    <span class="post-meta-category"><a href="pulse/1788152612/talent-bench.php">The Talent Bench</a></span>
+                                    <span class="post-meta-category"><a href="pulse/1788670730/talent-bench.php">The Talent Bench</a></span>
                                 </div>
                                 <div class="post-item-description">
-                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Aug 28, 2026</span>
-                                    <h2><a href="pulse/1788152612/talent-bench.php">Closing the Logistics Skill Mismatch: Building the "Hybrid Operator" Workforce for 4PL Ecosystems</a></h2>
-                                    <p>Logistics operators are introducing internal upskilling academies to transition frontline warehouse staff into "Hybrid Operators" proficient in managing AMR fleets, WMS telemetry, and AI exception workflows.</p>
-                                    <a href="pulse/1788152612/talent-bench.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
+                                    <span class="post-meta-date"><i class="fa fa-calendar-o"></i>Sep 03, 2026</span>
+                                    <h2><a href="pulse/1788670730/talent-bench.php">Closing the 4PL Skill Mismatch: Building the "Intermodal Control Specialist" Workforce for Automated Logistics Hubs</a></h2>
+                                    <p>With Indian warehouse leasing reaching 36.2M sq ft in H1 2026, 3PL and 4PL operators are establishing VR-simulated upskilling academies. Traditional warehouse staff are trained into "Intermodal Control Specialists"—mastering digital twin monitoring, AMR telemetry navigation, and ULIP customs exception handling to reduce frontline turnover by 35%.</p>
+                                    <a href="pulse/1788670730/talent-bench.php" class="item-link">Read More <i class="icon-chevron-right"></i></a>
                                 </div>
                             </div>
                         </div>
