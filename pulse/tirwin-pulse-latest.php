@@ -1,6 +1,6 @@
 <?php include('../include/header.php'); ?>
 <?php
-$issueDate = "28 September 2026";
+$issueDate = "16 October 2026";
 ?>
 <style>
     /* Newsletter Container Styling inside Website Page */
@@ -287,15 +287,15 @@ $issueDate = "28 September 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1790571739/global-macro-radar.php">Golden Week Blank Sailings Collide with Q4 Air Cargo Peak Surge: Capacity Squeezes & Sea-Air Multimodal Bridging for Indian Exporters</a>
+                                                    <a href="pulse/1792125758/global-macro-radar.php">Post-Golden Week Spot Freight Rebound & Mid-October GRI Surge: Ocean Liners Push $1,000/FEU Hikes as Cape Route Fuel Surcharges Mount</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Global Trade Winds</span>
-                                                    <span class="newsletter-tag">Air Cargo Peak</span>
+                                                    <span class="newsletter-tag">Ocean Freight Rates</span>
                                                     <span class="newsletter-tag">Indian Exporters</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Global Pulse:</strong> Ocean carrier alliances are withdrawing 20% to 25% of Asia-Europe and Transpacific capacity ahead of China's Golden Week to arrest spot rate drops, while the Baltic Air Freight Index surges over 20% YoY. Indian exporters face rolled bookings at JNPT and Mundra, prompting forwarders to scale sea-air multimodal bridges via Dubai and Muscat to cut transit times by 14 days.
+                                                    <strong>Global Pulse:</strong> Ocean container spot rates rebounded post-Golden Week, with Drewry's WCI holding between $4,351–$4,485 and SCFI at 3,664 points. Ocean alliances are enforcing mid-October GRIs of up to $1,000/FEU, while bunker surcharges rise on Cape of Good Hope routes. Indian exporters at JNPT and Mundra face Peak Season Surcharges, driving a surge in 90-day index-linked contract lock-ins.
                                                 </p>
                                             </div>
 
@@ -306,15 +306,15 @@ $issueDate = "28 September 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1790571739/tech-lab.php">Vision-Language-Action (VLA) Embodied AI & Mobile Robotic Manipulators Solve Unstructured Inbound Bottlenecks in 3PL Cross-Docks</a>
+                                                    <a href="pulse/1792125758/tech-lab.php">Autonomous Yard Management Systems (YMS) & Electric Terminal Tractors: Edge LiDAR and Robotic Coupling Transform Port-to-Dock Drayage</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Logistics Tech</span>
-                                                    <span class="newsletter-tag">Embodied AI</span>
-                                                    <span class="newsletter-tag">VLA Robotics</span>
+                                                    <span class="newsletter-tag">Autonomous Yard</span>
+                                                    <span class="newsletter-tag">Terminal Tractors</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Automation Expansion:</strong> Tier-1 3PLs are deploying Embodied Physical AI and Vision-Language-Action (VLA) models on Autonomous Mobile Manipulation Robots (AMMRs). Delivering zero-shot spatial reasoning and dynamic grasping, these systems destuff loose, non-palletized ocean containers in 48 minutes instead of 4.5 hours, synchronizing with WES to achieve 99.8% sort accuracy.
+                                                    <strong>Automation Expansion:</strong> Logistics hubs and ports are deploying battery-electric Autonomous Terminal Tractors (e-ATTs) integrated with cloud YMS. Leveraging 3D LiDAR perception and automated fifth-wheel pin coupling, these systems execute mixed-traffic container staging with sub-centimeter accuracy, eliminating shunter shortages and cutting gate-to-bay turnaround times by 55%.
                                                 </p>
                                             </div>
 
@@ -325,15 +325,15 @@ $issueDate = "28 September 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1790571739/government-policy.php">National Logistics Policy Marks 4th Anniversary: DPIIT Launches ULIP 2.0 API Gateway & MoPSW Notifies "Sagar Ankalan" LPPI Standards</a>
+                                                    <a href="pulse/1792125758/government-policy.php">Statutory MSDC 21st Meeting Mandates "One Nation, One Port Process" (ONOP) & Sagar Setu Integration by March 2027 Across All Indian Gateways</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">National Logistics Policy</span>
-                                                    <span class="newsletter-tag">ULIP 2.0</span>
-                                                    <span class="newsletter-tag">Sagar Ankalan (LPPI)</span>
+                                                    <span class="newsletter-tag">One Nation One Port</span>
+                                                    <span class="newsletter-tag">Sagar Setu</span>
+                                                    <span class="newsletter-tag">Port Reforms</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>India Focus:</strong> On the 4th anniversary of the National Logistics Policy, DPIIT and MoPSW launched the ULIP 2.0 API gateway connecting 44 systems across 11 ministries and notified "Sagar Ankalan" (Logistics Port Performance Index). The LPPI framework links port terminal concessions directly to turnaround KPIs, while ULIP 2.0 automates duty drawback and ICD-CFS digital clearance.
+                                                    <strong>India Focus:</strong> In its first statutory meeting under the Indian Ports Act 2025, the Maritime State Development Council (MSDC) mandated the nationwide rollout of the "One Nation, One Port Process" across all major and non-major ports by March 2027. Integrating terminal systems with Sagar Setu and standardizing CBIC, immigration, and health procedures, the reform mandates electronic publishing of all port tariffs.
                                                 </p>
                                             </div>
 
@@ -344,15 +344,15 @@ $issueDate = "28 September 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1790571739/global-best-practices.php">Secondary Air Cargo Hub Bypass & Blocked Space Charters: How Tier-1 3PLs Insulate Shippers from Q4 Airport Congestion</a>
+                                                    <a href="pulse/1792125758/global-best-practices.php">Cross-Border Multi-Country Consolidation (MCC) Hubs: How Global Forwarders De-Risk LCL Freight and Circumvent Blank Sailings</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Air Cargo Strategy</span>
-                                                    <span class="newsletter-tag">Secondary Hubs</span>
+                                                    <span class="newsletter-tag">Multi-Country Consolidation</span>
+                                                    <span class="newsletter-tag">LCL Strategy</span>
                                                     <span class="newsletter-tag">3PL Resilience</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Operational Strategy:</strong> To bypass 48-to-72-hour tarmac bottlenecks and punitive demurrage at primary airports like Frankfurt, Heathrow, and JFK, leading forwarders are contracting dedicated freighters into dedicated cargo hubs (Liège, Leipzig, Rickenbacker). Synchronized with bonded road feeder trucks, forwarders guarantee express transit and eliminate gateway dwell.
+                                                    <strong>Operational Strategy:</strong> Confronting carrier blank sailings and post-Golden Week GRIs, Tier-1 forwarders are establishing bonded Multi-Country Consolidation (MCC) hubs in Free Trade Warehousing Zones (FTWZs) across Colombo, Dubai, and Nhava Sheva. Consolidating regional LCL into dedicated FCL boxes, forwarders cut landed freight costs by 28% and insulate shippers from liner schedule volatility.
                                                 </p>
                                             </div>
 
@@ -363,15 +363,15 @@ $issueDate = "28 September 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1790571739/talent-bench.php">The Rise of the Logistics Carbon Accounting Specialist: Bridging the Green Freight Skills Gap Ahead of Scope 3 Mandates</a>
+                                                    <a href="pulse/1792125758/talent-bench.php">The Digital Customs Technologist: Upskilling Customs Brokers for Sagar Setu, ULIP 2.0 APIs, and Faceless Single-Window Compliance</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Logistics Talent</span>
-                                                    <span class="newsletter-tag">Carbon Accounting</span>
-                                                    <span class="newsletter-tag">Scope 3 Auditing</span>
+                                                    <span class="newsletter-tag">Digital Customs</span>
+                                                    <span class="newsletter-tag">Sagar Setu</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Workforce Trend:</strong> With EU CBAM enforcement and EU ETS maritime audits tightening entering Q4 2026, 3PLs face an acute talent shortage for certified "Logistics Carbon Accounting Specialists." In response, LSSC and FIATA are rolling out GLEC-compliant accreditation, training forwarding brokers to model low-carbon multimodal routes and audit SAF book-and-claim registries.
+                                                    <strong>Workforce Trend:</strong> With India mandating "One Nation, One Port" and Sagar Setu integration, Custom House Agents (CHAs) and freight forwarders are aggressively retraining frontline personnel into "Digital Customs Technologists." Backed by FFFAI and LSSC, workers are certified in API error validation and electronic delivery order handling, cutting document clearance times to minutes.
                                                 </p>
                                             </div>
 
@@ -383,16 +383,16 @@ $issueDate = "28 September 2026";
                                                     <tr>
                                                         <td align="center">
                                                             <!-- Feedback Reaction Buttons -->
-                                                            <a href="contact.php?feedback=insightful&issue=46" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=insightful&issue=47" class="newsletter-feedback-btn" target="_blank">
                                                                 🤩 Insightful
                                                             </a>
-                                                            <a href="contact.php?feedback=good&issue=46" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=good&issue=47" class="newsletter-feedback-btn" target="_blank">
                                                                 👍 Good
                                                             </a>
-                                                            <a href="contact.php?feedback=okay&issue=46" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=okay&issue=47" class="newsletter-feedback-btn" target="_blank">
                                                                 😐 Average
                                                             </a>
-                                                            <a href="contact.php?feedback=needs-work&issue=46" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=needs-work&issue=47" class="newsletter-feedback-btn" target="_blank">
                                                                 👎 Needs Work
                                                             </a>
                                                         </td>
