@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>In a direct measure to enhance cost competitiveness and curb unauthorized terminal surcharges, the MSDC officially mandated the electronic publication of port tariffs and vessel-related charges across all public and private maritime terminals. Port concessionaires and private terminal operators must now publish fully itemized, audited tariff schedules online, guaranteeing pricing transparency for Indian exporters and overseas buyers. As India's maritime throughput accelerates—evidenced by the Visakhapatnam Port Authority crossing its 50-million-tonne handling milestone well ahead of fiscal schedules—the enforced rollout of ONOP and Sagar Setu integration establishes an unassailable foundation for reducing national logistics costs to below 8% of GDP and cementing India’s rank among top global maritime logistics hubs.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.pib.gov.in/"
+                                            <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=2322942"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

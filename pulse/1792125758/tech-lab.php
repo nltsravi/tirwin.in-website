@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Beyond vehicle kinematics, the true operational value of autonomous yard operations lies in its seamless API handshake with enterprise Warehouse Management Systems (WMS) and Yard Management Systems (YMS). As an inbound container passes automated optical character recognition (OCR) and RFID gate scanners, the cloud-based YMS instantly generates dynamic move missions without dispatcher oversight. Autonomous terminal tractors are algorithmically assigned to stage containers, retrieve empty chassis, or position refrigerated reefers at plug-in monitoring bays based on real-time dock bay readiness and vessel loading manifests. Across high-volume multi-modal logistics parks (MMLPs) and container transshipment terminals, deploying autonomous electric hostler fleets has driven a 55% reduction in trailer staging cycle times, eliminated trailer search dwell, and slashed terminal scope 1 diesel emissions to zero.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychainbrain.com/"
+                                            <a href="https://www.supplychainbrain.com/articles/43241-warehouse-automations-next-frontier-robots-in-the-distribution-yard"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

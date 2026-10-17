@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>This workforce transition delivers immediate commercial and operational dividends for freight forwarding enterprises. Forwarders employing certified Digital Customs Technologists report a 60% reduction in document processing errors, complete elimination of physical detention demurrage caused by paperwork discrepancies, and heightened retention of high-performing personnel. By offloading routine data transcription to automated single-window gateways, forwarders are empowering their personnel to transition from transactional clearance agents into strategic trade compliance advisors. These professionals now provide enterprise clients with predictive duty optimization, free trade agreement (FTA) tariff minimization strategies, and real-time cargo dwell analytics, establishing a modern, tech-enabled talent bench primed for India’s global logistics leadership.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.supplychaindive.com/"
+                                            <a href="https://www.maritimegateway.com/logistics-skill-council-recognises-fffai-as-training-partner/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

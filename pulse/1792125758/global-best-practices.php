@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>Crucially, Multi-Country Consolidation acts as an agile operational hedge against carrier capacity manipulation. When ocean carriers enact tactical blank sailings on direct South Asia services, forwarders operating MCC hubs possess the operational flexibility to re-route consolidated containers onto alternative mainline alliance services departing from major global transshipment gateways. Furthermore, because forwarders control the container stuffing manifest directly, they insulate their clients from volatile carrier LCL peak season surcharges and container dwell penalties. For Indian garment exporters in Tirupur, footwear manufacturers in Agra, and electronics suppliers in Chennai, partnering with forwarders utilizing MCC frameworks ensures guaranteed weekly vessel departures, reduced carbon intensity through optimized container cubic utilization, and uncompromising supply chain predictability.</p>
 
                                         <div class="text-left">
-                                            <a href="https://www.logisticsmgmt.com/"
+                                            <a href="https://www.logisticsmgmt.com/article/top_30_ocean_carriers_2026_walking_a_capacity_tightrope"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>

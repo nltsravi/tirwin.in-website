@@ -122,6 +122,36 @@ $issueDate = "16 October 2026";
     .newsletter-article-text strong {
         color: #1a202c;
     }
+    .newsletter-article-footer {
+        margin-top: 14px;
+        padding-top: 10px;
+        border-top: 1px dashed #e2e8f0;
+        font-size: 13px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+    .newsletter-read-more {
+        color: #0055a5;
+        font-weight: 600;
+        text-decoration: none;
+    }
+    .newsletter-read-more:hover {
+        color: #003366;
+        text-decoration: underline;
+    }
+    .newsletter-source-btn {
+        color: #64748b;
+        font-size: 12px;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    .newsletter-source-btn:hover {
+        color: #0055a5;
+        text-decoration: underline;
+    }
     .newsletter-feedback-section {
         background: linear-gradient(180deg, #f0f4f8 0%, #e6eef5 100%);
         border: 1px solid #d0dbe5;
@@ -297,6 +327,10 @@ $issueDate = "16 October 2026";
                                                 <p class="newsletter-article-text">
                                                     <strong>Global Pulse:</strong> Ocean container spot rates rebounded post-Golden Week, with Drewry's WCI holding between $4,351–$4,485 and SCFI at 3,664 points. Ocean alliances are enforcing mid-October GRIs of up to $1,000/FEU, while bunker surcharges rise on Cape of Good Hope routes. Indian exporters at JNPT and Mundra face Peak Season Surcharges, driving a surge in 90-day index-linked contract lock-ins.
                                                 </p>
+                                                <div class="newsletter-article-footer">
+                                                    <a href="pulse/1792125758/global-macro-radar.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://theloadstar.com/carriers-eye-fak-hikes-as-spot-decline-eases-and-capacity-stays-tight/" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                </div>
                                             </div>
 
                                             <!-- SECTION 2 -->
@@ -316,6 +350,10 @@ $issueDate = "16 October 2026";
                                                 <p class="newsletter-article-text">
                                                     <strong>Automation Expansion:</strong> Logistics hubs and ports are deploying battery-electric Autonomous Terminal Tractors (e-ATTs) integrated with cloud YMS. Leveraging 3D LiDAR perception and automated fifth-wheel pin coupling, these systems execute mixed-traffic container staging with sub-centimeter accuracy, eliminating shunter shortages and cutting gate-to-bay turnaround times by 55%.
                                                 </p>
+                                                <div class="newsletter-article-footer">
+                                                    <a href="pulse/1792125758/tech-lab.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.supplychainbrain.com/articles/43241-warehouse-automations-next-frontier-robots-in-the-distribution-yard" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                </div>
                                             </div>
 
                                             <!-- SECTION 3 -->
@@ -335,6 +373,10 @@ $issueDate = "16 October 2026";
                                                 <p class="newsletter-article-text">
                                                     <strong>India Focus:</strong> In its first statutory meeting under the Indian Ports Act 2025, the Maritime State Development Council (MSDC) mandated the nationwide rollout of the "One Nation, One Port Process" across all major and non-major ports by March 2027. Integrating terminal systems with Sagar Setu and standardizing CBIC, immigration, and health procedures, the reform mandates electronic publishing of all port tariffs.
                                                 </p>
+                                                <div class="newsletter-article-footer">
+                                                    <a href="pulse/1792125758/government-policy.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=2322942" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                </div>
                                             </div>
 
                                             <!-- SECTION 4 -->
@@ -354,6 +396,10 @@ $issueDate = "16 October 2026";
                                                 <p class="newsletter-article-text">
                                                     <strong>Operational Strategy:</strong> Confronting carrier blank sailings and post-Golden Week GRIs, Tier-1 forwarders are establishing bonded Multi-Country Consolidation (MCC) hubs in Free Trade Warehousing Zones (FTWZs) across Colombo, Dubai, and Nhava Sheva. Consolidating regional LCL into dedicated FCL boxes, forwarders cut landed freight costs by 28% and insulate shippers from liner schedule volatility.
                                                 </p>
+                                                <div class="newsletter-article-footer">
+                                                    <a href="pulse/1792125758/global-best-practices.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.logisticsmgmt.com/article/top_30_ocean_carriers_2026_walking_a_capacity_tightrope" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                </div>
                                             </div>
 
                                             <!-- SECTION 5 -->
@@ -373,6 +419,10 @@ $issueDate = "16 October 2026";
                                                 <p class="newsletter-article-text">
                                                     <strong>Workforce Trend:</strong> With India mandating "One Nation, One Port" and Sagar Setu integration, Custom House Agents (CHAs) and freight forwarders are aggressively retraining frontline personnel into "Digital Customs Technologists." Backed by FFFAI and LSSC, workers are certified in API error validation and electronic delivery order handling, cutting document clearance times to minutes.
                                                 </p>
+                                                <div class="newsletter-article-footer">
+                                                    <a href="pulse/1792125758/talent-bench.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.maritimegateway.com/logistics-skill-council-recognises-fffai-as-training-partner/" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                </div>
                                             </div>
 
                                             <!-- FEEDBACK SECTION -->

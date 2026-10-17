@@ -71,7 +71,7 @@ $currentURL = urlencode("https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_U
                                         <p>For Indian export and import communities operating through premier Western maritime gateways such as JNPT (Nhava Sheva), Mundra, and Hazira, the mid-October carrier GRI push represents an immediate margin squeeze. Major carriers serving the India–US East Coast and India–North Europe corridors have notified mid-month Peak Season Surcharges (PSS) of $300 to $600 per container, directly impacting price-sensitive outbound sectors including textiles, pharmaceuticals, forged auto components, and engineering goods. Furthermore, elevated Transpacific spot rates—with Shanghai–New York rates exceeding $10,000 per FEU—have led carriers to reposition empty 40ft high-cube containers eastward, tightening regional container availability across inland container depots (ICDs) in North and Western India. To insulate operating margins, leading Indian logistics directors are rapidly locking in 90-day index-linked quarterly volume contracts and shifting non-urgent shipments to coastal and feeder-optimized departures.</p>
 
                                         <div class="text-left">
-                                            <a href="https://theloadstar.com/"
+                                            <a href="https://theloadstar.com/carriers-eye-fak-hikes-as-spot-decline-eases-and-capacity-stays-tight/"
                                                 target="_blank" class="btn-source"><i class="fa fa-external-link"></i>
                                                 View Original Source</a>
                                         </div>
