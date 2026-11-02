@@ -1,6 +1,6 @@
 <?php include('../include/header.php'); ?>
 <?php
-$issueDate = "16 October 2026";
+$issueDate = "02 November 2026";
 ?>
 <style>
     /* Newsletter Container Styling inside Website Page */
@@ -317,7 +317,7 @@ $issueDate = "16 October 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1792125758/global-macro-radar.php">Post-Golden Week Spot Freight Rebound & Mid-October GRI Surge: Ocean Liners Push $1,000/FEU Hikes as Cape Route Fuel Surcharges Mount</a>
+                                                    <a href="pulse/1793603282/global-macro-radar.php">Carriers' November Rate Hikes Doomed Say Analysts as Demand Goes Flat: Ocean Liners Push GRIs and Tactical Blank Sailings Amid Softening Spot Rates and Extended Cape Route Steaming Costs</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Global Trade Winds</span>
@@ -325,11 +325,11 @@ $issueDate = "16 October 2026";
                                                     <span class="newsletter-tag">Indian Exporters</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Global Pulse:</strong> Ocean container spot rates rebounded post-Golden Week, with Drewry's WCI holding between $4,351–$4,485 and SCFI at 3,664 points. Ocean alliances are enforcing mid-October GRIs of up to $1,000/FEU, while bunker surcharges rise on Cape of Good Hope routes. Indian exporters at JNPT and Mundra face Peak Season Surcharges, driving a surge in 90-day index-linked contract lock-ins.
+                                                    <strong>Global Pulse:</strong> Global ocean container spot rates softened entering November 2026 as post-Golden Week volumes tapered. Desperate to prop up pricing ahead of 2027 contract talks, major liner alliances pushed November 1 GRIs of up to $1,000/FEU backed by tactical blank sailings of 15%–20%. Meanwhile, Cape of Good Hope detours keep bunker fuel surcharges high, squeezing margins for Indian exporters at JNPT and Mundra.
                                                 </p>
                                                 <div class="newsletter-article-footer">
-                                                    <a href="pulse/1792125758/global-macro-radar.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
-                                                    <a href="https://theloadstar.com/carriers-eye-fak-hikes-as-spot-decline-eases-and-capacity-stays-tight/" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                    <a href="pulse/1793603282/global-macro-radar.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
                                                 </div>
                                             </div>
 
@@ -340,19 +340,19 @@ $issueDate = "16 October 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1792125758/tech-lab.php">Autonomous Yard Management Systems (YMS) & Electric Terminal Tractors: Edge LiDAR and Robotic Coupling Transform Port-to-Dock Drayage</a>
+                                                    <a href="pulse/1793603282/tech-lab.php">Warehouse Orchestration: The Next Great Supply Chain Breakthrough — Synchronizing Multi-Agent Robotics, WES, and Dynamic Workflows Across Modern Fulfillment Centers</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Logistics Tech</span>
-                                                    <span class="newsletter-tag">Autonomous Yard</span>
-                                                    <span class="newsletter-tag">Terminal Tractors</span>
+                                                    <span class="newsletter-tag">Warehouse Automation</span>
+                                                    <span class="newsletter-tag">AMR Orchestration</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Automation Expansion:</strong> Logistics hubs and ports are deploying battery-electric Autonomous Terminal Tractors (e-ATTs) integrated with cloud YMS. Leveraging 3D LiDAR perception and automated fifth-wheel pin coupling, these systems execute mixed-traffic container staging with sub-centimeter accuracy, eliminating shunter shortages and cutting gate-to-bay turnaround times by 55%.
+                                                    <strong>Automation Expansion:</strong> As multi-agent robotic fleets (AMRs, AS/RS, autonomous sorters) proliferate, facilities are shifting beyond rigid WMS to intelligent Warehouse Execution Systems (WES) and orchestration platforms. Serving as dynamic "air traffic control," orchestration dynamically allocates tasks in sub-seconds, prevents bottleneck accumulation, and accelerates order throughput by up to 45%.
                                                 </p>
                                                 <div class="newsletter-article-footer">
-                                                    <a href="pulse/1792125758/tech-lab.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
-                                                    <a href="https://www.supplychainbrain.com/articles/43241-warehouse-automations-next-frontier-robots-in-the-distribution-yard" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                    <a href="pulse/1793603282/tech-lab.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/40703-warehouse-orchestration-the-next-great-supply-chain-breakthrough" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
                                                 </div>
                                             </div>
 
@@ -363,19 +363,19 @@ $issueDate = "16 October 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1792125758/government-policy.php">Statutory MSDC 21st Meeting Mandates "One Nation, One Port Process" (ONOP) & Sagar Setu Integration by March 2027 Across All Indian Gateways</a>
+                                                    <a href="pulse/1793603282/government-policy.php">PM GatiShakti Completes Five Years of Infrastructure Transformation: Over 1,800 Geospatial Data Layers and 400 Projects Worth ₹20.2 Lakh Crore Accelerate Multimodal Logistics</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">One Nation One Port</span>
-                                                    <span class="newsletter-tag">Sagar Setu</span>
-                                                    <span class="newsletter-tag">Port Reforms</span>
+                                                    <span class="newsletter-tag">PM GatiShakti</span>
+                                                    <span class="newsletter-tag">National Logistics Policy</span>
+                                                    <span class="newsletter-tag">MMLP Infrastructure</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>India Focus:</strong> In its first statutory meeting under the Indian Ports Act 2025, the Maritime State Development Council (MSDC) mandated the nationwide rollout of the "One Nation, One Port Process" across all major and non-major ports by March 2027. Integrating terminal systems with Sagar Setu and standardizing CBIC, immigration, and health procedures, the reform mandates electronic publishing of all port tariffs.
+                                                    <strong>India Focus:</strong> Celebrating its five-year milestone, the PM GatiShakti National Master Plan now integrates over 1,800 GIS data layers across 58 Central Ministries and all 36 States/UTs. The Network Planning Group has appraised 400+ infrastructure projects worth ₹20.23 lakh crore, converging with the National Logistics Policy, ULIP 2.0, and 35 Multi-Modal Logistics Parks to slash transit costs.
                                                 </p>
                                                 <div class="newsletter-article-footer">
-                                                    <a href="pulse/1792125758/government-policy.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
-                                                    <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=2322942" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                    <a href="pulse/1793603282/government-policy.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=2322825" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
                                                 </div>
                                             </div>
 
@@ -386,19 +386,19 @@ $issueDate = "16 October 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1792125758/global-best-practices.php">Cross-Border Multi-Country Consolidation (MCC) Hubs: How Global Forwarders De-Risk LCL Freight and Circumvent Blank Sailings</a>
+                                                    <a href="pulse/1793603282/global-best-practices.php">Supply Chain Resilience Can Fight the Hidden Cost of Congestion: Proactive Mitigation, Dynamic Rerouting, and Multi-Gateway Buffer Frameworks Deployed by Tier-1 Forwarders</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
-                                                    <span class="newsletter-tag">Multi-Country Consolidation</span>
-                                                    <span class="newsletter-tag">LCL Strategy</span>
-                                                    <span class="newsletter-tag">3PL Resilience</span>
+                                                    <span class="newsletter-tag">Supply Chain Resilience</span>
+                                                    <span class="newsletter-tag">Port Congestion</span>
+                                                    <span class="newsletter-tag">Dynamic Routing</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Operational Strategy:</strong> Confronting carrier blank sailings and post-Golden Week GRIs, Tier-1 forwarders are establishing bonded Multi-Country Consolidation (MCC) hubs in Free Trade Warehousing Zones (FTWZs) across Colombo, Dubai, and Nhava Sheva. Consolidating regional LCL into dedicated FCL boxes, forwarders cut landed freight costs by 28% and insulate shippers from liner schedule volatility.
+                                                    <strong>Operational Strategy:</strong> To combat billions in hidden demurrage, dwell penalties, and factory stoppages caused by maritime chokepoints, Tier-1 freight forwarders are implementing predictive resilience playbooks. By deploying dynamic dual-gateway routing, inland bonded staging, and sea-air multimodal bridges via Middle Eastern hubs, forwarders preserve supply chain velocity and bypass port congestion.
                                                 </p>
                                                 <div class="newsletter-article-footer">
-                                                    <a href="pulse/1792125758/global-best-practices.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
-                                                    <a href="https://www.logisticsmgmt.com/article/top_30_ocean_carriers_2026_walking_a_capacity_tightrope" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                    <a href="pulse/1793603282/global-best-practices.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/44879-supply-chain-resilience-can-fight-the-hidden-cost-of-congestion" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
                                                 </div>
                                             </div>
 
@@ -409,19 +409,19 @@ $issueDate = "16 October 2026";
 
                                             <div class="newsletter-article-card">
                                                 <div class="newsletter-article-title">
-                                                    <a href="pulse/1792125758/talent-bench.php">The Digital Customs Technologist: Upskilling Customs Brokers for Sagar Setu, ULIP 2.0 APIs, and Faceless Single-Window Compliance</a>
+                                                    <a href="pulse/1793603282/talent-bench.php">What 700 Supply Chain Leaders Reveal About the Future of Work: Cultivating the "Hybrid Operator" and Upskilling Frontline Logistics Teams Amid Automation</a>
                                                 </div>
                                                 <div class="newsletter-tag-container">
                                                     <span class="newsletter-tag">Logistics Talent</span>
-                                                    <span class="newsletter-tag">Digital Customs</span>
-                                                    <span class="newsletter-tag">Sagar Setu</span>
+                                                    <span class="newsletter-tag">Future of Work</span>
+                                                    <span class="newsletter-tag">Hybrid Operator</span>
                                                 </div>
                                                 <p class="newsletter-article-text">
-                                                    <strong>Workforce Trend:</strong> With India mandating "One Nation, One Port" and Sagar Setu integration, Custom House Agents (CHAs) and freight forwarders are aggressively retraining frontline personnel into "Digital Customs Technologists." Backed by FFFAI and LSSC, workers are certified in API error validation and electronic delivery order handling, cutting document clearance times to minutes.
+                                                    <strong>Workforce Trend:</strong> A global survey of 700+ leaders confirms an acute talent deficit as the "Silver Tsunami" retirement wave collides with rapid warehouse automation. Forward-thinking 3PLs and forwarders are abandoning reactive poaching to develop "Hybrid Logistics Operators"—workers proficient in physical cargo handling and digital WES/TMS exception workflows—supported by LSSC apprenticeships.
                                                 </p>
                                                 <div class="newsletter-article-footer">
-                                                    <a href="pulse/1792125758/talent-bench.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
-                                                    <a href="https://www.maritimegateway.com/logistics-skill-council-recognises-fffai-as-training-partner/" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
+                                                    <a href="pulse/1793603282/talent-bench.php" class="newsletter-read-more">Read Full Analysis &rarr;</a>
+                                                    <a href="https://www.supplychainbrain.com/articles/43967-what-700-supply-chain-leaders-reveal-about-the-future-of-work" target="_blank" class="newsletter-source-btn"><i class="fa fa-external-link"></i> View Original Source</a>
                                                 </div>
                                             </div>
 
@@ -433,16 +433,16 @@ $issueDate = "16 October 2026";
                                                     <tr>
                                                         <td align="center">
                                                             <!-- Feedback Reaction Buttons -->
-                                                            <a href="contact.php?feedback=insightful&issue=47" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=insightful&issue=48" class="newsletter-feedback-btn" target="_blank">
                                                                 🤩 Insightful
                                                             </a>
-                                                            <a href="contact.php?feedback=good&issue=47" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=good&issue=48" class="newsletter-feedback-btn" target="_blank">
                                                                 👍 Good
                                                             </a>
-                                                            <a href="contact.php?feedback=okay&issue=47" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=okay&issue=48" class="newsletter-feedback-btn" target="_blank">
                                                                 😐 Average
                                                             </a>
-                                                            <a href="contact.php?feedback=needs-work&issue=47" class="newsletter-feedback-btn" target="_blank">
+                                                            <a href="contact.php?feedback=needs-work&issue=48" class="newsletter-feedback-btn" target="_blank">
                                                                 👎 Needs Work
                                                             </a>
                                                         </td>
